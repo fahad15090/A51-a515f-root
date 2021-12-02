@@ -3,4 +3,7 @@
 - Enable OEM unlock
 - Again put device to Download mode
 - flash that file in Odin 
+- Reboot to recovery
+- Wipe data,cache
+- Reboot
 - Done!
